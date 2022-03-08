@@ -1,5 +1,3 @@
-package ru.hse.fmcs;
-
 import org.jetbrains.annotations.NotNull;
 
 import java.util.Collection;
