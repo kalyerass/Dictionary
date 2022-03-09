@@ -1,2 +1,2 @@
-# Trie
-Implementation of Trie in Java
+# Dictionary
+Implementation of Dictionary in Java
